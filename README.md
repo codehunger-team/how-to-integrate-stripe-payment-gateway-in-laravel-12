@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.codehunger.in" target="_blank">
-    <img src="https://www.codehunger.in/assets/logo.png" width="200" alt="CodeHunger Logo">
+    <img src="https://www.codehunger.in/assets/image/logo.png" width="200" alt="CodeHunger Logo">
   </a>
 </p>
 
